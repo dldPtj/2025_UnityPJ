@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dc5d31564c7774943897a96c7b05976c
+timeCreated: 1503264037
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98517
+  packageName: Medieval RPG Village
+  packageVersion: 1.0
+  assetPath: Assets/Village/Prefabs/fence_wall_02.prefab
+  uploadId: 197151

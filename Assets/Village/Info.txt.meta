@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d6d181551683a274da16ad01256601b2
+timeCreated: 1503407309
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98517
+  packageName: Medieval RPG Village
+  packageVersion: 1.0
+  assetPath: Assets/Village/Info.txt
+  uploadId: 197151

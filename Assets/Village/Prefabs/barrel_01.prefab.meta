@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 19b2d70a24d3f264494f9765e1f34a8a
+timeCreated: 1503331885
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98517
+  packageName: Medieval RPG Village
+  packageVersion: 1.0
+  assetPath: Assets/Village/Prefabs/barrel_01.prefab
+  uploadId: 197151

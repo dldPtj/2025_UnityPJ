@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c82c790d35f992c4f9b99997dc3b1409
+timeCreated: 18446744011573954816
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98517
+  packageName: Medieval RPG Village
+  packageVersion: 1.0
+  assetPath: Assets/Village/Materials/sign_d1.mat
+  uploadId: 197151

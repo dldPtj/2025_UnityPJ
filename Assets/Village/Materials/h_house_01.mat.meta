@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4897a6a906eebab46838da2b4c4c99db
+timeCreated: 1451857615
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98517
+  packageName: Medieval RPG Village
+  packageVersion: 1.0
+  assetPath: Assets/Village/Materials/h_house_01.mat
+  uploadId: 197151

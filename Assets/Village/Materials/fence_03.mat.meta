@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 730420eee45193d45acbe01a52370369
+timeCreated: 1451848741
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98517
+  packageName: Medieval RPG Village
+  packageVersion: 1.0
+  assetPath: Assets/Village/Materials/fence_03.mat
+  uploadId: 197151

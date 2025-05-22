@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0b9f9ccfdf0cdb044bd6b13736f6f733
+timeCreated: 1503353859
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98517
+  packageName: Medieval RPG Village
+  packageVersion: 1.0
+  assetPath: Assets/Village/Materials/smoke_01.mat
+  uploadId: 197151

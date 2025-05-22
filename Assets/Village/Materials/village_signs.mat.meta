@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6d21540297abe434c924e84869eb7968
+timeCreated: 1503330514
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98517
+  packageName: Medieval RPG Village
+  packageVersion: 1.0
+  assetPath: Assets/Village/Materials/village_signs.mat
+  uploadId: 197151

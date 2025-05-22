@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4bf5f48b6b142e44c85c6bf3278e4280
+timeCreated: 1503399497
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98517
+  packageName: Medieval RPG Village
+  packageVersion: 1.0
+  assetPath: Assets/Village/Main Camera.controller
+  uploadId: 197151

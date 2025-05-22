@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4cac68626d80e21438b73c42f69f4984
+timeCreated: 1503162455
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98517
+  packageName: Medieval RPG Village
+  packageVersion: 1.0
+  assetPath: Assets/Village/Prefabs/village_house_05.prefab
+  uploadId: 197151

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7cb2ca9835580d4abc9329021ca62a1
+timeCreated: 1451848740
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98517
+  packageName: Medieval RPG Village
+  packageVersion: 1.0
+  assetPath: Assets/Village/Materials/bark_d.mat
+  uploadId: 197151

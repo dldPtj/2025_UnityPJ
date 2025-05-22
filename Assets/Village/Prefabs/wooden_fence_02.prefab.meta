@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1001d50a20a689d46ba13ef0e45f2945
+timeCreated: 1503228249
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98517
+  packageName: Medieval RPG Village
+  packageVersion: 1.0
+  assetPath: Assets/Village/Prefabs/wooden_fence_02.prefab
+  uploadId: 197151

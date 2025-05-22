@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 665383e3371df094e97758fc01c304b2
+timeCreated: 1503178702
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98517
+  packageName: Medieval RPG Village
+  packageVersion: 1.0
+  assetPath: Assets/Village/Prefabs/wall_bridge_set_01.prefab
+  uploadId: 197151

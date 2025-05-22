@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3644540e7262ea04fa82c6c814aecc64
+timeCreated: 1503257793
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98517
+  packageName: Medieval RPG Village
+  packageVersion: 1.0
+  assetPath: Assets/Village/Prefabs/rock_set_03.prefab
+  uploadId: 197151
